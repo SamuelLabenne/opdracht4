@@ -1,4 +1,4 @@
-namespace Opdracht_4
+namespace opdracht4
 {
     internal static class Program
     {
